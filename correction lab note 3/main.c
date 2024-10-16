@@ -5,6 +5,8 @@ double my_log_with_pow(double x, int n);    //  utilisation de la fonction pow d
 double my_log_without_pow(double x, int n); //  sans utilisation de la fonction pow
 
 int main() {
+    printf("%d\n", '\n');
+
     double x;
     int n;
 
