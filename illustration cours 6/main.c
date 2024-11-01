@@ -7,7 +7,6 @@ int main(void) {
     printf("une chaine ? ");
 //    scanf("%s", chaine);
     fgets(chaine, 100, stdin);
-    tolower(chaine);
 
     printf("chaine lue : %s", chaine);
 
